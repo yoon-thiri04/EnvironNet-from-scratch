@@ -1,0 +1,10 @@
+numpy
+pathlib
+torch
+torchvision
+scikit-learn
+matplotlib
+pandas
+seaborn
+IPython
+ipywidgets
